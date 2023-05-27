@@ -31,10 +31,10 @@
 - I’m currently Developing **ReportGPT**: fun project with openAI<br>
 - I’m currently learning **ReactJS** & **Flutter**<br>
 - I'm a developer of **Ludinf**<br>
-- I'm a translator of **Among us**<br><br>
-
+- I'm a translator of **Among us**<br><br><br>
 <div align="center">
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hacanna42&theme=buefy&hide_border=false)
-</div>
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hacanna42&theme=buefy&hide_border=false)</div>
 
 
