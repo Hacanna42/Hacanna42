@@ -28,7 +28,7 @@
 
 <br><br>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***<br>
-- I’m currently Developing **ReportGPT**: fun project with openAI<br>
+- I’m currently Developing **AI-SANTA**: interesting project with openAI<br>
 - I’m currently learning **ReactJS** & **Flutter**<br>
 - I'm a developer of **Ludinf**<br>
 - I'm a translator of **Among us**<br><br><br>
