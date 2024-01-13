@@ -23,7 +23,7 @@
 ### 🤵 About Me:
 - 🏦 I'm a freelancer, likes to make fun things.
 - 🌱 To make what I want, I do everything I can to learn.
-- ⚡ Quote: Optimistic Nihilism.
+- ⚡ Quote: The developer is not a person who codes, but a person who uses code to solve problems.
 
 
 <br><br>
