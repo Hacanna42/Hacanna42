@@ -32,9 +32,9 @@
 - I’m currently learning **C++** & **Algorithms**<br>
 - I'm a developer of **Ludinf**<br>
 - I'm a translator of **Among us**<br><br><br>
-<div align="center">
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hacanna42&theme=buefy&hide_border=false)</div>
+<div align="center" style="display: flex; justify-content: between;">
+  
+![Hacanna42](https://solvedac-cards-starcea.paring.moe/profile/hacanna42?size=200) &nbsp; ![](https://github-readme-streak-stats.herokuapp.com/?user=Hacanna42&theme=buefy&hide_border=false)
+</div>
 
 
