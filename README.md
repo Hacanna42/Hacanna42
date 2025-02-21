@@ -22,16 +22,16 @@
 </p>
 
 ### 🤵 About Me:
-- 🏦 I'm a freelancer, likes to make fun things.
-- 🌱 To make what I want, I do everything I can to learn.
-- ⚡ Quote: The developer is not a person who codes, but a person who uses code to solve problems.
+- 🏦 I'm a free-spirited person who likes to create fun things.
+- 🌱 To build what I envision, I learn everything I can.
+- ⚡ Quote: A developer is not just someone who codes, but someone who uses code to solve problems.
 
 
 <br><br>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***<br>
 - I’m currently learning **Java & OOP**<br>
 - I'm a developer of **Ludinf**<br>
-- I'm a translator of **Among us**<br><br><br>
+- I'm a translator for **Among us**<br><br><br>
 <div align="center" style="display: flex; justify-content: between;">
   
 ![Hacanna42](https://solvedac-cards-starcea.paring.moe/profile/hacanna42?size=200) &nbsp; ![](https://github-readme-streak-stats.herokuapp.com/?user=Hacanna42&theme=buefy&hide_border=false)
